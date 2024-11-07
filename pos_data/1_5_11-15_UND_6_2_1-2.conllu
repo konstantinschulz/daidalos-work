@@ -1,0 +1,324 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = latin-proiel-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Paucos post dies
+1	Paucos	paucus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	TokenRange=0:6
+2	post	post	ADP	R-	_	_	_	_	TokenRange=7:11
+3	dies	dies	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	_	_	_	TokenRange=12:16
+
+# sent_id = 2
+# text = ipse me
+1	ipse	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	TokenRange=17:21
+2	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	TokenRange=22:24
+
+# sent_id = 3
+# text = Regulus convenit in praetoris officio; illuc persecutus secretum petit; ait timere se ne animo meo penitus haereret, quod in centumvirali iudicio aliquando dixisset, cum
+1	Regulus	Regulus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	_	_	_	TokenRange=25:32
+2	convenit	convenio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=33:41
+3	in	in	ADP	R-	_	_	_	_	TokenRange=42:44
+4	praetoris	praetor	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	_	_	_	TokenRange=45:54
+5	officio;	officio;	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	_	_	_	TokenRange=55:63
+6	illuc	illuc	ADV	Df	_	_	_	_	TokenRange=64:69
+7	persecutus	persequor	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	TokenRange=70:80
+8	secretum	secretum	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	_	_	_	TokenRange=81:89
+9	petit;	peto	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=90:96
+10	ait	aio	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=97:100
+11	timere	timeo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	TokenRange=101:107
+12	se	se	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	TokenRange=108:110
+13	ne	ne	SCONJ	G-	_	_	_	_	TokenRange=111:113
+14	animo	animus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	_	_	_	TokenRange=114:119
+15	meo	meus	DET	Ps	Case=Abl|Gender=Masc,Neut|Number=Sing|Person=1|Poss=Yes	_	_	_	TokenRange=120:123
+16	penitus	penitus	ADV	Df	_	_	_	_	TokenRange=124:131
+17	haereret,	haereo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=132:141
+18	quod	quod	SCONJ	G-	_	_	_	_	TokenRange=142:146
+19	in	in	ADP	R-	_	_	_	_	TokenRange=147:149
+20	centumvirali	centumviralis	ADJ	A-	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	TokenRange=150:162
+21	iudicio	iudicium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Sing	_	_	_	TokenRange=163:170
+22	aliquando	aliquando	ADV	Df	_	_	_	_	TokenRange=171:180
+23	dixisset,	dixco	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=181:190
+24	cum	cum	ADP	R-	_	_	_	_	TokenRange=191:194
+
+# sent_id = 4
+# text = responderet mihi et Satrio Rufo: 'Satrius Rufus, cui non est cum Cicerone aemulatio et qui contentus est eloquentia saeculi nostri'. Respondi nunc me intellegere maligne dictum quia ipse confiteretur, ceterum potuisse honorificum existimari. 'Est enim' inquam 'mihi cum Cicerone aemulatio, nec sum contentus eloquentia saeculi nostri;
+1	responderet	respondeo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=195:206
+2	mihi	ego	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	TokenRange=207:211
+3	et	et	CCONJ	C-	_	_	_	_	TokenRange=212:214
+4	Satrio	Satrius	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	_	_	_	TokenRange=215:221
+5	Rufo:	Rufo:	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	_	_	_	TokenRange=222:227
+6	'Satrius	'satrius	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	_	_	_	TokenRange=228:236
+7	Rufus,	Rufus,s	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	_	_	_	TokenRange=237:243
+8	cui	qui	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	_	_	_	TokenRange=244:247
+9	non	non	ADV	Df	Polarity=Neg	_	_	_	TokenRange=248:251
+10	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=252:255
+11	cum	cum	ADP	R-	_	_	_	_	TokenRange=256:259
+12	Cicerone	Cicero	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	_	_	_	TokenRange=260:268
+13	aemulatio	aemulatio	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	_	_	_	TokenRange=269:278
+14	et	et	CCONJ	C-	_	_	_	_	TokenRange=279:281
+15	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	_	_	_	TokenRange=282:285
+16	contentus	contentus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	TokenRange=286:295
+17	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=296:299
+18	eloquentia	eloquentia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	_	_	_	TokenRange=300:310
+19	saeculi	saeculum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	_	_	_	TokenRange=311:318
+20	nostri'.	nostro	DET	Ps	Case=Gen|Gender=Masc,Neut|Number=Sing|Person=1|Poss=Yes	_	_	_	TokenRange=319:327
+21	Respondi	respondeo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=328:336
+22	nunc	nunc	ADV	Df	_	_	_	_	TokenRange=337:341
+23	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	TokenRange=342:344
+24	intellegere	intellego	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	TokenRange=345:356
+25	maligne	maligne	ADV	Df	Degree=Pos	_	_	_	TokenRange=357:364
+26	dictum	dico	VERB	V-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	TokenRange=365:371
+27	quia	quia	SCONJ	G-	_	_	_	_	TokenRange=372:376
+28	ipse	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing	_	_	_	TokenRange=377:381
+29	confiteretur,	confiteror	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	_	TokenRange=382:395
+30	ceterum	ceterus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	_	_	_	TokenRange=396:403
+31	potuisse	possum	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	_	_	_	TokenRange=404:412
+32	honorificum	honorificus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	TokenRange=413:424
+33	existimari.	existimo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	_	_	_	TokenRange=425:436
+34	'Est	esum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=437:441
+35	enim'	enim'	ADV	Df	_	_	_	_	TokenRange=442:447
+36	inquam	inquam	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=448:454
+37	'mihi	ego	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	TokenRange=455:460
+38	cum	cum	ADP	R-	_	_	_	_	TokenRange=461:464
+39	Cicerone	Cicero	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	_	_	_	TokenRange=465:473
+40	aemulatio,	aemulatis	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	_	_	_	TokenRange=474:484
+41	ne	ne	ADV	Df	Polarity=Neg	_	_	_	SpaceAfter=No|TokenRange=485:487
+42	c	que	CCONJ	C-	_	_	_	_	TokenRange=487:488
+43	sum	sum	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=489:492
+44	contentus	contentus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	TokenRange=493:502
+45	eloquentia	eloquentia	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	_	_	_	TokenRange=503:513
+46	saeculi	saeculum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	_	_	_	TokenRange=514:521
+47	nostri;	noster	DET	Ps	Case=Gen|Gender=Masc,Neut|Number=Sing|Person=1|Poss=Yes	_	_	_	TokenRange=522:529
+
+# sent_id = 5
+# text = nam stultissimum credo ad imitandum non optima quaeque proponere.
+1	nam	nam	ADV	Df	_	_	_	_	TokenRange=530:533
+2	stultissimum	stultus	ADJ	A-	Case=Acc|Degree=Sup|Gender=Masc,Neut|Number=Sing	_	_	_	TokenRange=534:546
+3	credo	credo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=547:552
+4	ad	ad	ADP	R-	_	_	_	_	TokenRange=553:555
+5	imitandum	imitor	VERB	V-	Case=Acc|VerbForm=Ger	_	_	_	TokenRange=556:565
+6	non	non	ADV	Df	Polarity=Neg	_	_	_	TokenRange=566:569
+7	optima	bonus	ADJ	A-	Case=Acc|Degree=Sup|Gender=Neut|Number=Plur	_	_	_	TokenRange=570:576
+8	quae	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	_	_	_	SpaceAfter=No|TokenRange=577:581
+9	que	que	CCONJ	C-	_	_	_	_	TokenRange=581:584
+10	proponere.	propono	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=585:595
+
+# sent_id = 6
+# text = Sed tu qui huius iudicii meministi, cur illius oblitus es, in quo me interrogasti, quid de Metti Modesti pietate sentirem?'
+1	Sed	sed	CCONJ	C-	_	_	_	_	TokenRange=596:599
+2	tu	tu	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	_	_	_	TokenRange=600:602
+3	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	_	_	_	TokenRange=603:606
+4	huius	hic	DET	Pd	Case=Gen|Number=Sing	_	_	_	TokenRange=607:612
+5	iudicii	iudicium	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	_	_	_	TokenRange=613:620
+6	meministi,	meminis	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=621:631
+7	cur	cur	ADV	Du	PronType=Int	_	_	_	TokenRange=632:635
+8	illius	ille	PRON	Pd	Case=Gen|Gender=Masc|Number=Sing	_	_	_	TokenRange=636:642
+9	oblitus	obliviscor	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	TokenRange=643:650
+10	es,	sum	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=651:654
+11	in	in	ADP	R-	_	_	_	_	TokenRange=655:657
+12	quo	qui	PRON	Pr	Case=Abl|Gender=Neut|Number=Sing|PronType=Rel	_	_	_	TokenRange=658:661
+13	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	TokenRange=662:664
+14	interrogasti,	interrogo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=665:678
+15	quid	quis	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	_	_	_	TokenRange=679:683
+16	de	de	ADP	R-	_	_	_	_	TokenRange=684:686
+17	Metti	Mettius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	_	_	_	TokenRange=687:692
+18	Modesti	Modestius	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	_	_	_	TokenRange=693:700
+19	pietate	pietas	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	_	_	_	TokenRange=701:708
+20	sentirem?'	sentio	VERB	V-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=709:719
+
+# sent_id = 7
+# text = Expalluit notabiliter, quamvis palleat semper, et haesitabundus: 'Interrogavi non ut tibi nocerem, sed ut Modesto.'
+1	Expalluit	expalluo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=720:729
+2	notabiliter,	notabiliter,	ADV	Df	_	_	_	_	TokenRange=730:742
+3	quamvis	quamvis	SCONJ	G-	_	_	_	_	TokenRange=743:750
+4	palleat	palleo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=751:758
+5	semper,	semper,	ADV	Df	_	_	_	_	TokenRange=759:766
+6	et	et	CCONJ	C-	_	_	_	_	TokenRange=767:769
+7	haes	haes	PRON	Pd	Case=Acc|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No|TokenRange=770:774
+8	itabundus:	itabundo	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	TokenRange=774:784
+9	'Interrogavi	'interrogo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=785:797
+10	non	non	ADV	Df	Polarity=Neg	_	_	_	TokenRange=798:801
+11	ut	ut	SCONJ	G-	_	_	_	_	TokenRange=802:804
+12	tibi	tu	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	_	_	_	TokenRange=805:809
+13	nocerem,	noceo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=810:818
+14	sed	sed	CCONJ	C-	_	_	_	_	TokenRange=819:822
+15	ut	ut	ADV	Df	_	_	_	_	TokenRange=823:825
+16	Modesto.'	Modesto.'s	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	_	_	_	TokenRange=826:835
+
+# sent_id = 8
+# text = Vide hominis crudelitatem, qui se non dissimulet exsuli nocere voluisse. Subiunxit egregiam causam: 'Scripsit' inquit 'in epistula quadam, quae apud Domitianum recitata est: "Regulus, omnium bipedum nequissimus"'; quod quidem Modestus verissime scripserat.
+1	Vide	vides	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	_	_	_	TokenRange=836:840
+2	hominis	homo	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	_	_	_	TokenRange=841:848
+3	crudelitatem,	crudelitats	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	_	_	_	TokenRange=849:862
+4	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	_	_	_	TokenRange=863:866
+5	se	se	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	_	_	_	TokenRange=867:869
+6	non	non	ADV	Df	Polarity=Neg	_	_	_	TokenRange=870:873
+7	dissimulet	dissimulo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=874:884
+8	exsuli	exsulis	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	_	_	_	TokenRange=885:891
+9	nocere	noceo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	TokenRange=892:898
+10	voluisse.	volo	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=899:908
+11	Subiunxit	subiungo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=909:918
+12	egregiam	egregius	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	TokenRange=919:927
+13	causam:	causam	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	_	_	_	TokenRange=928:935
+14	'Scripsit'	'scripbo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=936:946
+15	inquit	inquam	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=947:953
+16	'in	'in	ADP	R-	_	_	_	_	TokenRange=954:957
+17	epistula	epistula	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	_	_	_	TokenRange=958:966
+18	quadam,	quiam,	DET	Px	Case=Abl|Gender=Fem|Number=Sing	_	_	_	TokenRange=967:974
+19	quae	qui	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	_	_	_	TokenRange=975:979
+20	apud	apud	ADP	R-	_	_	_	_	TokenRange=980:984
+21	Domitianum	Domitianus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	TokenRange=985:995
+22	recitata	recito	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	TokenRange=996:1004
+23	est:	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1005:1009
+24	"	"	ADP	R-	_	_	_	_	SpaceAfter=No|TokenRange=1010:1011
+25	Regulus,	Regulus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	_	_	_	TokenRange=1011:1019
+26	omnium	omnis	DET	Px	Case=Gen|Number=Plur	_	_	_	TokenRange=1020:1026
+27	bipedum	bipedum	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	_	_	_	TokenRange=1027:1034
+28	nequissimus"';	nequissimo	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	TokenRange=1035:1049
+29	quod	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	_	_	_	TokenRange=1050:1054
+30	quidem	quidem	ADV	Df	_	_	_	_	TokenRange=1055:1061
+31	Modestus	Modestus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	_	_	_	TokenRange=1062:1070
+32	verissime	vere	ADV	Df	Degree=Sup	_	_	_	TokenRange=1071:1080
+33	scripserat.	scripbo	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1081:1092
+
+# sent_id = 9
+# text = Hic fere nobis sermonis terminus;
+1	Hic	hic	ADV	Df	_	_	_	_	TokenRange=1093:1096
+2	fere	fere	ADV	Df	_	_	_	_	TokenRange=1097:1101
+3	nobis	nos	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	_	_	_	TokenRange=1102:1107
+4	sermonis	sermo	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	_	_	_	TokenRange=1108:1116
+5	terminus;	terminus;	VERB	V-	_	_	_	_	TokenRange=1117:1126
+
+# sent_id = 10
+# text = neque enim volui progredi longius, ut mihi omnia libera servarem dum Mauricus venit.
+1	ne	ne	ADV	Df	Polarity=Neg	_	_	_	SpaceAfter=No|TokenRange=1127:1129
+2	que	que	CCONJ	C-	_	_	_	_	TokenRange=1129:1132
+3	enim	enim	ADV	Df	_	_	_	_	TokenRange=1133:1137
+4	volui	volo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1138:1143
+5	progredi	progredior	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	_	_	_	TokenRange=1144:1152
+6	longius,	longie	ADV	Df	Degree=Cmp	_	_	_	TokenRange=1153:1161
+7	ut	ut	SCONJ	G-	_	_	_	_	TokenRange=1162:1164
+8	mihi	ego	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	TokenRange=1165:1169
+9	omnia	omnis	DET	Px	Case=Acc|Gender=Neut|Number=Plur	_	_	_	TokenRange=1170:1175
+10	libera	liber	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	_	_	_	TokenRange=1176:1182
+11	servarem	servo	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1183:1191
+12	dum	dum	SCONJ	G-	_	_	_	_	TokenRange=1192:1195
+13	Mauricus	Mauricus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	TokenRange=1196:1204
+14	venit.	venio	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1205:1211
+
+# sent_id = 11
+# text = Nec me praeterit esse Regulum 'dyskathaireton'; est enim locuples factiosus, curatur a multis, timetur a pluribus, quod plerumque fortius amore est. [...] Soleo
+1	Ne	ne	ADV	Df	Polarity=Neg	_	_	_	SpaceAfter=No|TokenRange=1212:1214
+2	c	que	CCONJ	C-	_	_	_	_	TokenRange=1214:1215
+3	me	ego	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	_	_	_	TokenRange=1216:1218
+4	praeterit	praetereo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1219:1228
+5	esse	sum	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	TokenRange=1229:1233
+6	Regulum	Regulus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	_	_	_	TokenRange=1234:1241
+7	'dyskathaireton';	'dyskathaireton';	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	_	_	_	TokenRange=1242:1259
+8	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1260:1263
+9	enim	enim	ADV	Df	_	_	_	_	TokenRange=1264:1268
+10	locuples	locuples	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	_	_	_	TokenRange=1269:1277
+11	factiosus,	factiosus,s	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	TokenRange=1278:1288
+12	curatur	curo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	_	_	_	TokenRange=1289:1296
+13	a	ab	ADP	R-	_	_	_	_	TokenRange=1297:1298
+14	multis,	multisus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	TokenRange=1299:1306
+15	timetur	timeo	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	_	_	_	TokenRange=1307:1314
+16	a	ab	ADP	R-	_	_	_	_	TokenRange=1315:1316
+17	pluribus,	multus,	ADJ	A-	Case=Abl|Degree=Cmp|Gender=Masc|Number=Plur	_	_	_	TokenRange=1317:1326
+18	quod	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	_	_	_	TokenRange=1327:1331
+19	plerumque	plerumque	ADV	Df	_	_	_	_	TokenRange=1332:1341
+20	fortius	fortis	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	_	_	_	TokenRange=1342:1349
+21	amore	amor	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	_	_	_	TokenRange=1350:1355
+22	est.	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1356:1360
+23	[...]	[...]	ADV	Df	_	_	_	_	TokenRange=1361:1366
+24	Soleo	Soleus	PROPN	Ne	Case=Abl|Gender=Masc|Number=Sing	_	_	_	TokenRange=1367:1372
+
+# sent_id = 12
+# text = non numquam in iudiciis quaerere
+1	non	non	ADV	Df	Polarity=Neg	_	_	_	TokenRange=1373:1376
+2	numquam	numquam	ADV	Df	_	_	_	_	TokenRange=1377:1384
+3	in	in	ADP	R-	_	_	_	_	TokenRange=1385:1387
+4	iudiciis	iudicium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	_	_	_	TokenRange=1388:1396
+5	quaerere	quaero	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	TokenRange=1397:1405
+
+# sent_id = 13
+# text = M. Regulum;
+1	M.	M.arcus	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	_	_	_	TokenRange=1406:1408
+2	Regulum;	Regulum;	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	_	_	_	TokenRange=1409:1417
+
+# sent_id = 14
+# text = nolo enim dicere desiderare.
+1	nolo	nolo	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1418:1422
+2	enim	enim	ADV	Df	_	_	_	_	TokenRange=1423:1427
+3	dicere	dico	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	_	_	_	TokenRange=1428:1434
+4	desiderare.	desidero	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1435:1446
+
+# sent_id = 15
+# text = Cur ergo quaero? Habebat studiis honorem, timebat pallebat scribebat, quamvis non posset ediscere.
+1	Cur	cur	ADV	Dq	PronType=Rel	_	_	_	TokenRange=1447:1450
+2	ergo	ergo	ADV	Df	_	_	_	_	TokenRange=1451:1455
+3	quaero?	quaero?	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	_	_	_	TokenRange=1456:1463
+4	Habebat	habeo	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1464:1471
+5	studiis	studium	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	_	_	_	TokenRange=1472:1479
+6	honorem,	honoremus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	_	_	_	TokenRange=1480:1488
+7	timebat	timeo	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1489:1496
+8	pallebat	pallo	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1497:1505
+9	scribebat,	scribo	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1506:1516
+10	quamvis	quamvis	SCONJ	G-	_	_	_	_	TokenRange=1517:1524
+11	non	non	ADV	Df	Polarity=Neg	_	_	_	TokenRange=1525:1528
+12	posset	possum	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1529:1535
+13	ediscere.	edisco	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1536:1545
+
+# sent_id = 16
+# text = Illud ipsum, quod oculum modo dextrum modo sinistrum circumlinebat — dextrum si a petitore, alterum si a possessore esset acturus -, quod candidum splenium in hoc aut in illud supercilium transferebat, quod semper haruspices consulebat de actionis eventu, a nimia superstitione sed tamen et a magno studiorum honore veniebat.
+1	Illud	ille	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	_	_	_	TokenRange=1546:1551
+2	ipsum,	ipsue	DET	Pd	Case=Acc|Gender=Masc,Neut|Number=Sing	_	_	_	TokenRange=1552:1558
+3	quod	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	_	_	_	TokenRange=1559:1563
+4	oculum	oculus	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	_	_	_	TokenRange=1564:1570
+5	modo	modo	ADV	Df	_	_	_	_	TokenRange=1571:1575
+6	dextrum	dexter	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	TokenRange=1576:1583
+7	modo	modo	ADV	Df	_	_	_	_	TokenRange=1584:1588
+8	sinistrum	sinister	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	TokenRange=1589:1598
+9	circumlinebat	circumlineo	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1599:1612
+10	—	—	CCONJ	C-	_	_	_	_	TokenRange=1613:1614
+11	dextrum	dexter	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	TokenRange=1615:1622
+12	si	si	SCONJ	G-	_	_	_	_	TokenRange=1623:1625
+13	a	ab	ADP	R-	_	_	_	_	TokenRange=1626:1627
+14	petitore,	petitor	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	_	_	_	TokenRange=1628:1637
+15	alterum	alter	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	TokenRange=1638:1645
+16	si	si	SCONJ	G-	_	_	_	_	TokenRange=1646:1648
+17	a	ab	ADP	R-	_	_	_	_	TokenRange=1649:1650
+18	possessore	possessor	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	_	_	_	TokenRange=1651:1661
+19	esset	sum	AUX	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1662:1667
+20	acturus	ago	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	_	_	_	TokenRange=1668:1675
+21	-,	-,	NOUN	Nb	_	_	_	_	TokenRange=1676:1678
+22	quod	quod	SCONJ	G-	_	_	_	_	TokenRange=1679:1683
+23	candidum	candidus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	TokenRange=1684:1692
+24	splenium	splenium	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	TokenRange=1693:1701
+25	in	in	ADP	R-	_	_	_	_	TokenRange=1702:1704
+26	hoc	hic	PRON	Pd	Case=Abl|Gender=Neut|Number=Sing	_	_	_	TokenRange=1705:1708
+27	aut	aut	CCONJ	C-	_	_	_	_	TokenRange=1709:1712
+28	in	in	ADP	R-	_	_	_	_	TokenRange=1713:1715
+29	illud	ille	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	_	_	_	TokenRange=1716:1721
+30	supercilium	supercilium	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	_	_	_	TokenRange=1722:1733
+31	transferebat,	transfero	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1734:1747
+32	quod	quod	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	_	_	_	TokenRange=1748:1752
+33	semper	semper	ADV	Df	_	_	_	_	TokenRange=1753:1759
+34	haruspices	haruspex	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	_	_	_	TokenRange=1760:1770
+35	consulebat	consulo	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	TokenRange=1771:1781
+36	de	de	ADP	R-	_	_	_	_	TokenRange=1782:1784
+37	actionis	actio	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	_	_	_	TokenRange=1785:1793
+38	eventu,	eventu,	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	_	_	_	TokenRange=1794:1801
+39	a	ab	ADP	R-	_	_	_	_	TokenRange=1802:1803
+40	nimia	nimius	ADJ	A-	Case=Abl|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	TokenRange=1804:1809
+41	superstitione	superstitio	NOUN	Nb	Case=Abl|Gender=Fem|Number=Sing	_	_	_	TokenRange=1810:1823
+42	sed	sed	CCONJ	C-	_	_	_	_	TokenRange=1824:1827
+43	tamen	tamen	ADV	Df	_	_	_	_	TokenRange=1828:1833
+44	et	et	CCONJ	C-	_	_	_	_	TokenRange=1834:1836
+45	a	ab	ADP	R-	_	_	_	_	TokenRange=1837:1838
+46	magno	magnus	ADJ	A-	Case=Abl|Degree=Pos|Gender=Masc,Neut|Number=Sing	_	_	_	TokenRange=1839:1844
+47	studiorum	studium	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	_	_	_	TokenRange=1845:1854
+48	honore	honor	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	_	_	_	TokenRange=1855:1861
+49	veniebat.	venio	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	_	SpaceAfter=No|TokenRange=1862:1871
+
