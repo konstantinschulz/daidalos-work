@@ -5,7 +5,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 load_dotenv()
 model_id = "CohereForAI/c4ai-command-r-plus-4bit"
-hf_token: str = os.getenv("MY_ENV_VAR")
+hf_token: str = os.getenv("HF_TOKEN")
 tokenizer = AutoTokenizer.from_pretrained(model_id, token=hf_token)
 model = AutoModelForCausalLM.from_pretrained(model_id, token=hf_token)
 
